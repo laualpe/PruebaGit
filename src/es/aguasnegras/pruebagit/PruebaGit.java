@@ -7,7 +7,7 @@ public class PruebaGit {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("A ver si Git mola");
+		System.out.println("Subversion, tu antes molabas");
 
 	}
 
